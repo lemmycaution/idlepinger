@@ -1,0 +1,8 @@
+# Logfile created on 2014-08-25 12:23:49 +0100 by logger.rb/41954
+I, [2014-08-25T12:23:49.136796 #12783]  INFO -- : 0:  addressable (2.3.5) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/addressable-2.3.5.gemspec
+I, [2014-08-25T12:23:54.313734 #12783]  INFO -- : 0:  tzinfo (0.3.35) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.35.gemspec
+I, [2014-08-25T12:23:55.058764 #12783]  INFO -- : 0:  clockwork (0.4.0) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/clockwork-0.4.0.gemspec
+I, [2014-08-25T12:23:57.657915 #12783]  INFO -- : 0:  excon (0.25.1) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/excon-0.25.1.gemspec
+I, [2014-08-25T12:23:58.971738 #12783]  INFO -- : 0:  heroku-api (0.3.13) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/heroku-api-0.3.13.gemspec
+I, [2014-08-25T12:23:59.726904 #12783]  INFO -- : 0:  launchy (2.3.0) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/launchy-2.3.0.gemspec
+I, [2014-08-25T12:23:59.727341 #12783]  INFO -- : 0:  netrc (0.7.7) from /Users/onuruyar/.rvm/gems/ruby-2.0.0-p353/specifications/netrc-0.7.7.gemspec

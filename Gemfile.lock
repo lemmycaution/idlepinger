@@ -1,0 +1,44 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.3.5)
+    clockwork (0.4.0)
+      tzinfo
+    excon (0.25.1)
+    heroku (2.39.4)
+      heroku-api (~> 0.3.7)
+      launchy (>= 0.3.2)
+      netrc (~> 0.7.7)
+      rest-client (~> 1.6.1)
+      rubyzip
+    heroku-api (0.3.13)
+      excon (~> 0.25.0)
+    httparty (0.8.3)
+      multi_json (~> 1.0)
+      multi_xml
+    launchy (2.3.0)
+      addressable (~> 2.3)
+    mail (2.5.4)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
+    mime-types (1.23)
+    multi_json (1.3.7)
+    multi_xml (0.5.1)
+    netrc (0.7.7)
+    polyglot (0.3.3)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    rubyzip (0.9.9)
+    treetop (1.4.14)
+      polyglot
+      polyglot (>= 0.3.1)
+    tzinfo (0.3.35)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  clockwork
+  heroku
+  httparty
+  mail
